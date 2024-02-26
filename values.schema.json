@@ -427,6 +427,34 @@
                         }
                     },
                     "additionalProperties": true
+                },
+                "pod": {
+                    "$id": "#/properties/proxy/properties/pod",
+                    "type": "object",
+                    "title": "The pod schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": {},
+                    "examples": [
+                        {
+                            "type": ""
+                        }
+                    ],
+                    "required": [],
+                    "properties": {
+                        "annotations": {
+                            "$id": "#/properties/ingress/properties/annotations",
+                            "type": "object",
+                            "title": "The annotations schema",
+                            "description": "An explanation about the purpose of this instance.",
+                            "default": {},
+                            "examples": [
+                                {}
+                            ],
+                            "required": [],
+                            "additionalProperties": true
+                        }
+                    },
+                    "additionalProperties": true
                 }
             },
             "additionalProperties": true
@@ -508,6 +536,34 @@
                             "examples": [
                                 ""
                             ]
+                        }
+                    },
+                    "additionalProperties": true
+                },
+                "pod": {
+                    "$id": "#/properties/proxy/properties/pod",
+                    "type": "object",
+                    "title": "The pod schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": {},
+                    "examples": [
+                        {
+                            "type": ""
+                        }
+                    ],
+                    "required": [],
+                    "properties": {
+                        "annotations": {
+                            "$id": "#/properties/ingress/properties/annotations",
+                            "type": "object",
+                            "title": "The annotations schema",
+                            "description": "An explanation about the purpose of this instance.",
+                            "default": {},
+                            "examples": [
+                                {}
+                            ],
+                            "required": [],
+                            "additionalProperties": true
                         }
                     },
                     "additionalProperties": true
@@ -604,6 +660,34 @@
                             "examples": [
                                 ""
                             ]
+                        }
+                    },
+                    "additionalProperties": true
+                },
+                "pod": {
+                    "$id": "#/properties/proxy/properties/pod",
+                    "type": "object",
+                    "title": "The pod schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": {},
+                    "examples": [
+                        {
+                            "type": ""
+                        }
+                    ],
+                    "required": [],
+                    "properties": {
+                        "annotations": {
+                            "$id": "#/properties/ingress/properties/annotations",
+                            "type": "object",
+                            "title": "The annotations schema",
+                            "description": "An explanation about the purpose of this instance.",
+                            "default": {},
+                            "examples": [
+                                {}
+                            ],
+                            "required": [],
+                            "additionalProperties": true
                         }
                     },
                     "additionalProperties": true
@@ -729,6 +813,34 @@
                         }
                     },
                     "additionalProperties": true
+                },
+                "pod": {
+                    "$id": "#/properties/proxy/properties/pod",
+                    "type": "object",
+                    "title": "The pod schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": {},
+                    "examples": [
+                        {
+                            "type": ""
+                        }
+                    ],
+                    "required": [],
+                    "properties": {
+                        "annotations": {
+                            "$id": "#/properties/ingress/properties/annotations",
+                            "type": "object",
+                            "title": "The annotations schema",
+                            "description": "An explanation about the purpose of this instance.",
+                            "default": {},
+                            "examples": [
+                                {}
+                            ],
+                            "required": [],
+                            "additionalProperties": true
+                        }
+                    },
+                    "additionalProperties": true
                 }
             },
             "additionalProperties": true
@@ -848,6 +960,34 @@
                             "examples": [
                                 "sockets-pvc"
                             ]
+                        }
+                    },
+                    "additionalProperties": true
+                },
+                "pod": {
+                    "$id": "#/properties/proxy/properties/pod",
+                    "type": "object",
+                    "title": "The pod schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": {},
+                    "examples": [
+                        {
+                            "type": ""
+                        }
+                    ],
+                    "required": [],
+                    "properties": {
+                        "annotations": {
+                            "$id": "#/properties/ingress/properties/annotations",
+                            "type": "object",
+                            "title": "The annotations schema",
+                            "description": "An explanation about the purpose of this instance.",
+                            "default": {},
+                            "examples": [
+                                {}
+                            ],
+                            "required": [],
+                            "additionalProperties": true
                         }
                     },
                     "additionalProperties": true
